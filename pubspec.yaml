@@ -10,7 +10,7 @@ version: 1.0.0
 
 flutter:
   plugin:
-    androidPackage: io.flutter.plugins.imagesaver
+    androidPackage: io.flutter.plugins.imagepickersaver
     iosPrefix: FLT
     pluginClass: ImageSaverPlugin
 
