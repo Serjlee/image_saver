@@ -1,3 +1,6 @@
+## 1.0.1
+* Fixed wrong package name in pubspec.yaml (thanks @blasten)
+
 ## 1.0.0
 * Migrate Android support libraries to AndroidX
 * Add example
